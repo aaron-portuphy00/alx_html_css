@@ -1,4 +1,4 @@
-﻿# Headphones Web Page Project
+# Headphones Web Page Project
 
 ## Overview
 This project is a fully responsive web page built using HTML and CSS. The page is designed to match the Figma mockup, with focus on accessibility, responsiveness, and clean code structure.
@@ -12,4 +12,3 @@ This project is a fully responsive web page built using HTML and CSS. The page i
 - Responsive design (switches to mobile view at 480px).
 - Custom fonts: Source Sans Pro and Spin Cycle OT.
 - Animations and hover effects.
-
